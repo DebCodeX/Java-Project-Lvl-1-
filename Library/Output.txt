@@ -1,0 +1,26 @@
+Enter The Size Of the Library: 3
+
+Enter The Book Name: Feluda
+Enter The Author Name: Satyajit Ray
+Enter The Publisher Name: Ananda Publishers
+Enter The Price: 450
+
+Enter The Book Name: Hirer Angti
+Enter The Author Name: Shirshendu Mukhopadhyay
+Enter The Publisher Name: Ananda Publishers
+Enter The Price: 350
+
+Enter The Book Name: Pather Panchali
+Enter The Author Name: Bibhutibhushan Bandopadhyay
+Enter The Publisher Name: Signet Press
+Enter The Price: 550
+
+
+
+The Book Found in the given range is: Feluda
+The Book Found in the given range is: Hirer Angti
+
+Book found with the given price and publisher: Feluda
+Book found with the given price and publisher: Hirer Angti
+
+Book found with the given price, author and publisher: Hirer Angti
